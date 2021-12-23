@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b81dd75-af7a-4496-b9a1-c72a0ce3b1ea" name="默认更改列表" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="HTML File" />
+        <option value="Python Script" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="21ayM1rsvmGd8VcOa2b2SwNcdqQ" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ast" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="ts.external.directory.path" value="C:\application\PyCharm 2019.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\进修\python-crawler-master\js_nixiang\ast" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\进修\python-crawler-master\js_nixiang\ast" />
+      <recent name="D:\进修\python-crawler-master\js_nixiang\webSite_lianxi" />
+      <recent name="D:\进修\python-crawler-master\js_nixiang" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.脱混淆.js">
+    <configuration name="脱混淆.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ast/脱混淆.js" working-dir="$PROJECT_DIR$/ast">
+      <method v="2" />
+    </configuration>
+    <configuration name="演示文档.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ast/演示文档.js" working-dir="$PROJECT_DIR$/ast">
+      <method v="2" />
+    </configuration>
+    <configuration name="ast_1第一课.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ast/ast_1第一课.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="jsdom_learn.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/jsdom_learn.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="match16.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/match/match16.js" working-dir="$PROJECT_DIR$/match">
+      <method v="2" />
+    </configuration>
+    <configuration name="vpgame.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/webSite_lianxi/vpgame.js" working-dir="$PROJECT_DIR$/webSite_lianxi">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.脱混淆.js" />
+        <item itemvalue="Node.js.演示文档.js" />
+        <item itemvalue="Node.js.ast_1第一课.js" />
+        <item itemvalue="Node.js.jsdom_learn.js" />
+        <item itemvalue="Node.js.vpgame.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b81dd75-af7a-4496-b9a1-c72a0ce3b1ea" name="默认更改列表" comment="" />
+      <created>1638193440139</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638193440139</updated>
+      <workItem from="1638193441303" duration="1113000" />
+      <workItem from="1638236774372" duration="2112000" />
+      <workItem from="1638240020351" duration="12745000" />
+      <workItem from="1638322963973" duration="9379000" />
+      <workItem from="1638409195193" duration="1198000" />
+      <workItem from="1638437232536" duration="599000" />
+      <workItem from="1638496276759" duration="599000" />
+      <workItem from="1638774602053" duration="1198000" />
+      <workItem from="1638930242625" duration="613000" />
+      <workItem from="1639014911876" duration="2673000" />
+      <workItem from="1639100648865" duration="599000" />
+      <workItem from="1639187233329" duration="9099000" />
+      <workItem from="1639360981429" duration="9220000" />
+      <workItem from="1639451021964" duration="599000" />
+      <workItem from="1639462664047" duration="1961000" />
+      <workItem from="1639533259205" duration="4562000" />
+      <workItem from="1639620992793" duration="1466000" />
+      <workItem from="1639623018126" duration="9081000" />
+      <workItem from="1639708105516" duration="686000" />
+      <workItem from="1639724733299" duration="7583000" />
+      <workItem from="1639796634545" duration="7283000" />
+      <workItem from="1639964686922" duration="6157000" />
+      <workItem from="1639985534277" duration="4918000" />
+      <workItem from="1639993239222" duration="3639000" />
+      <workItem from="1640052651994" duration="2838000" />
+      <workItem from="1640068510528" duration="4107000" />
+      <workItem from="1640077633573" duration="3161000" />
+      <workItem from="1640137379567" duration="13776000" />
+      <workItem from="1640223546521" duration="14871000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/match/match16.js</url>
+          <line>890</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/js_nixiang$match_13.coverage" NAME="match_13 Coverage Results" MODIFIED="1639216965038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/match" />
+    <SUITE FILE_PATH="coverage/js_nixiang$use_js.coverage" NAME="use_js Coverage Results" MODIFIED="1639051062637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/js_nixiang$Tpython_async.coverage" NAME="Tpython_async Coverage Results" MODIFIED="1638360285267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/js_nixiang$time_start2.coverage" NAME="time_start2 Coverage Results" MODIFIED="1638360495399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/js_nixiang$topic2.coverage" NAME="topic2 Coverage Results" MODIFIED="1639562694742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/js_nixiang$.coverage" NAME="电竞赛事 Coverage Results" MODIFIED="1639987066437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webSite_lianxi" />
+    <SUITE FILE_PATH="coverage/js_nixiang$match_12.coverage" NAME="match_12 Coverage Results" MODIFIED="1639213673546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/match" />
+    <SUITE FILE_PATH="coverage/js_nixiang$match16.coverage" NAME="match16 Coverage Results" MODIFIED="1640078455312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/match" />
+    <SUITE FILE_PATH="coverage/js_nixiang$topic10.coverage" NAME="topic10 Coverage Results" MODIFIED="1638361172001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/js_nixiang$topic14.coverage" NAME="topic14 Coverage Results" MODIFIED="1639746951374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/js_nixiang$topic11.coverage" NAME="topic11 Coverage Results" MODIFIED="1639824120878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/js_nixiang$topic7.coverage" NAME="topic7 Coverage Results" MODIFIED="1638270591337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/js_nixiang$topic16.coverage" NAME="topic16 Coverage Results" MODIFIED="1640007257591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/js_nixiang$topic1.coverage" NAME="topic1 Coverage Results" MODIFIED="1639469136276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
